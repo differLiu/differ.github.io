@@ -10,5 +10,12 @@
 }
 header .container {
   background-color: #eee;
+  padding: 0 15px;
+}
+header h1 {
+  color: #333;
+}
+header p {
+  color: #666;
 }
 /*# sourceMappingURL=index.css.map */
